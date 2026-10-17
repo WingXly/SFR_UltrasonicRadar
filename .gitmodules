@@ -1,3 +1,6 @@
 [submodule "SFR_UltrasonicRadar_Firmware"]
 	path = SFR_UltrasonicRadar_Firmware
 	url = https://github.com/WingXly/SFR_UltrasonicRadar_Firmware.git
+[submodule "SFR_UltrasonicRadar_WindowsHost"]
+	path = SFR_UltrasonicRadar_WindowsHost
+	url = https://github.com/WingXly/SFR_UltrasonicRadar_WindowsHost.git
